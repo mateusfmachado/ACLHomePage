@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import ScrollableTabView from 'react-native-scrollable-tab-view';
 import {
   AppRegistry,
 } from 'react-native';
